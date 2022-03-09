@@ -22,7 +22,7 @@ I'm a full stack developer passionate about creating new things!
 If you haven't checked out my website it's worth checking out!
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/gddBtgg/emoji-novo.png" alt="emoji-novo" border="0" style="width:20%; text-align: center"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gddBtgg/emoji-novo.png" alt="emoji-novo" border="0" style="width:20%"></a>
 
 
 ### Link: www.luizcamargo.dev
