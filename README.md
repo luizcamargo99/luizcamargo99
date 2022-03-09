@@ -19,3 +19,10 @@ I'm a full stack developer passionate about creating new things!
 #### I love it!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcamargo99&layout=compact&theme=synthwave)](https://github.com/luizcamargo99/github-readme-stats)
 
+If you haven't checked out my website it's worth checking out!
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gddBtgg/emoji-novo.png" alt="emoji-novo" border="0" style="width:20%"></a>
+
+
+### Link: www.luizcamargo.dev
