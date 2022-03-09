@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Luiz Camargo! Nice too meet you!! 👋
 
 <!--
 **luizcamargo99/luizcamargo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a full stack developer passionate about creating new things!
+
+#### I love it!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcamargo99&layout=compact&theme=synthwave)](https://github.com/luizcamargo99/github-readme-stats)
+
