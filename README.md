@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a full stack developer passionate about creating new things!
 
 #### I love it!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcamargo99&layout=compact&theme=synthwave)](https://github.com/luizcamargo99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcamargo99&layout=compact&theme=synthwave)]
 
 If you haven't checked out my website it's worth checking out!
 
