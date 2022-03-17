@@ -19,6 +19,10 @@ I'm a full stack developer passionate about creating new things!
 #### I love it!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcamargo99&layout=compact&theme=synthwave)
 
-If you haven't checked out my website it's worth checking out!
+Here you can check some of the academic projects I've done.
 
-### Link: www.luizcamargo.dev
+Feel free, grab a coffee.
+
+If you want to know a little more about me, visit my website.
+
+<b> Link: www.luizcamargo.dev </b>
