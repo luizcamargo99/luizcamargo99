@@ -22,7 +22,3 @@ I'm a full stack developer passionate about creating new things!
 Here you can check some of the academic projects I've done.
 
 Feel free, grab a coffee.
-
-If you want to know a little more about me, visit my website.
-
-<b> Link: www.luizcamargo.dev </b>
