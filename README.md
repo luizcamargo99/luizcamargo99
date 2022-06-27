@@ -6,7 +6,7 @@ I'm a Full Stack Developer passionate about creating things that impact lives th
 
 #### I love it!
 <div>
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=luizcamargo99&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=luizcamargo99&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcamargo99&layout=compact&theme=synthwave"/>
 </div>
   
