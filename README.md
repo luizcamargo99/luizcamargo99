@@ -1,6 +1,6 @@
 # Hi, I'm Luiz Camargo! Nice too meet you!! 👋
 
-I'm a Full Stack Developer passionate about creating things that impact lives through technology.
+I'm a Software Engineer passionate about creating things that impact lives through technology.
 
 +4 years of experience in the programming universe. I develop myself every day to become more and more a better professional.
 
