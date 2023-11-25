@@ -2,7 +2,7 @@
 
 I'm a Software Engineer passionate about creating things that impact lives through technology.
 
-+4 years of experience in the programming universe. I develop myself every day to become more and more a better professional.
++5 years of experience in the programming universe. I develop myself every day to become more and more a better professional.
 
  
 Here you can check some of the academic projects I've done.
